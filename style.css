@@ -1,0 +1,146 @@
+h5 {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    color: white;
+    padding-bottom: 10px;
+
+}
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    color: white;
+
+    font-size: 50px;
+
+}
+
+h2 {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+
+    font-size: 30px;
+
+}
+
+button {
+    background-color: red;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    border-style: none;
+    margin-top: 50px;
+
+
+}
+
+.background-image {
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
+h4 {
+    text-align: center;
+}
+.container {
+    text-align: center;
+}
+
+.container button {
+    margin: 10px;
+}
+
+.distance {
+    padding: 10px 30px;
+    border-radius: 5%;
+    background-color: beige;
+    color: black;
+    border-style: none;
+
+}
+
+.color {
+
+    background-color: pink;
+    color: black;
+    border: 2px solid;
+    border-color: red;
+}
+
+.food {
+    text-align: justify;
+
+}
+
+.plan {
+    display: flex;
+
+}
+
+#aquamarin {
+    background-color: aquamarine;
+    padding-right: 50px;
+    color: black;
+}
+
+#pink {
+    background-color: pink;
+    color: black;
+}
+
+#burlywood {
+    background-color: burlywood;
+    color: black;
+}
+
+.donation {
+    display: flex;
+    width: 70%;
+}
+
+.donation img {
+    padding-top: 5px;
+    padding-left: 10px;
+    width: 80%;
+}
+h1,
+h5 {
+    margin: 0;
+}
+
+.donate-button {
+    margin: 0;
+}
+.center-item
+{
+    text-align: center;
+}
+.width-33
+{
+    width: 33.3333%;
+    padding: 10px;
+}
+.padding-15
+{
+    padding: 15px;
+    height: 230px;
+}
+.footer{
+    text-align: center;
+    font-weight: 700;
+    background-color: black;
+    color:crimson;
+    padding: 10px; 
+    font-size: 30px;
+    font-family: 'Lobster', cursive;
+}
+   
+.small{
+    color: white;
+    font-size: small;
+}
